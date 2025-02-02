@@ -41,7 +41,7 @@ int main() {
 }
 
 Node* InsertNode(Node* pList, char newch) {
-	Node* newNode, trace, prevNode;
+	Node* newNode, *trace, *prevNode;
 	trace = pList;
 	prevNode = NULL;
 	newNode = (Node*)malloc(sizeof(Node));

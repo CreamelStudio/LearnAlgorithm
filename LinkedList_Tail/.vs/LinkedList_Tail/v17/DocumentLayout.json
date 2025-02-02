@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Creamel\\Documents\\GitHub\\LearnAlgorithm\\LinkedList_Tail\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0A085BA-F54D-4C2A-8693-8106EE29E1FC}|LinkedList_Tail\\LinkedList_Tail.vcxproj|C:\\Users\\Creamel\\Documents\\GitHub\\LearnAlgorithm\\LinkedList_Tail\\LinkedList_Tail\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D0A085BA-F54D-4C2A-8693-8106EE29E1FC}|LinkedList_Tail\\LinkedList_Tail.vcxproj|solutionrelative:LinkedList_Tail\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Creamel\\Documents\\GitHub\\LearnAlgorithm\\LinkedList_Tail\\LinkedList_Tail\\main.cpp",
+              "RelativeDocumentMoniker": "LinkedList_Tail\\main.cpp",
+              "ToolTip": "C:\\Users\\Creamel\\Documents\\GitHub\\LearnAlgorithm\\LinkedList_Tail\\LinkedList_Tail\\main.cpp",
+              "RelativeToolTip": "LinkedList_Tail\\main.cpp",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAgwFoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-02T08:04:29.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

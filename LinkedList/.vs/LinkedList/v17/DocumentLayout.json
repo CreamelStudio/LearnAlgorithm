@@ -14,8 +14,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 297,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +28,7 @@
               "RelativeDocumentMoniker": "LinkedList\\main.cpp",
               "ToolTip": "C:\\Users\\Creamel\\Documents\\GitHub\\LearnAlgorithm\\LinkedList\\LinkedList\\main.cpp",
               "RelativeToolTip": "LinkedList\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAIwHUAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-01-02T03:56:26.808Z",
               "EditorCaption": ""
